@@ -1,11 +1,11 @@
-## 📄SKILLSCAN AI: Resume Categorization with Machine Learning  
+## 📄ResumeIQ AI: Resume Categorization with Machine Learning  
 
 An **AI-driven** resume classification tool leveraging **NLP, TF-IDF, and Machine Learning** to **automatically categorize resumes** into job roles with high accuracy.  
 
 ---
 
 ## 📌 Overview  
-**SKILLSCAN AI** is a cutting-edge **resume categorization system** that processes resumes and classifies them into multiple job roles using **TF-IDF vectorization** and **multiple ML models**:  
+**ResumeIQ AI** is a cutting-edge **resume categorization system** that processes resumes and classifies them into multiple job roles using **TF-IDF vectorization** and **multiple ML models**:  
 
 - **Java Developer**  
 - **Python Developer**  
